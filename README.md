@@ -5,10 +5,6 @@
 - ⚡ Factos sobre mim : Gosto de me divertir e de aprender coisas novas
 - 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoteixeira9&show=reviews)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoteixeira&show_icons=true&theme=blue-green)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoteixeira9&layout=compact icons=true&theme=blue-green)
