@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá eu sou o Tiago Teixeira 👋
 
-<!--
-**TiagoTeixeira9/TiagoTeixeira9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou a estudar no momento Python
+- 📫 Discord : tiago.__.teixeira
+- ⚡ Factos sobre mim : Gosto de me divertir e de aprender coisas novas
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img align='right' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoteixeira9&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+</div>
+<div style="display: inline_block"><br>
+  <a href="https://github.com/lucasnogueiragomes">
+<img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+<img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
