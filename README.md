@@ -6,4 +6,4 @@
 
  <img align='right' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoteixeira9&layout=compact&langs_count=7&theme=blue-green"/>
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue-green&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIAGOTEIXEIRA9&theme=blue-green&show_icons=true)
