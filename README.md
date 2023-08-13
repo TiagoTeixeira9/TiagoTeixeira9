@@ -1,8 +1,8 @@
-<h1 align="center">Olá 👋, sou o Tiago Teixeira</h1>
+<h1 align="center">Hello, 👋, I'm Tiago Teixeira</h1>
 
-- 🌱 Estou a estudar no momento Python
+- 🌱 I'm currently studying Python
 - 📫 Discord : tiago.__.teixeira
-- ⚡ Factos sobre mim : Gosto de me divertir e de aprender coisas novas
+- ⚡ Facts about me : I like to have fun and learn new things
 
   ##
 
