@@ -4,6 +4,8 @@
 - 📫 Discord : tiago.__.teixeira
 - ⚡ Factos sobre mim : Gosto de me divertir e de aprender coisas novas
 
+  ##
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoteixeira9&show_icons=true&theme=blue-green" />
