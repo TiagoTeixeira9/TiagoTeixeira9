@@ -27,6 +27,3 @@
 
 ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoteixeira9&show_icons=true&locale=en&layout=compact" alt="tiagoteixeira9" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoteixeira9&show_icons=true&locale=en" alt="tiagoteixeira9" /></p>
