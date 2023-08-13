@@ -5,5 +5,3 @@
 - ⚡ Factos sobre mim : Gosto de me divertir e de aprender coisas novas
 
  <img align='right' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoteixeira9&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-</div>
