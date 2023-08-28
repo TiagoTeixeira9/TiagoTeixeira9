@@ -1,6 +1,6 @@
 <h1 align="center">Hello, 👋, I'm Tiago Teixeira</h1>
 
-- 🌱 I'm currently studying Python
+- 🌱 I'm currently studying JavaScript
 - 📫 Discord : tiago.__.teixeira
 - ⚡ Facts about me : I like to have fun and learn new things
 
