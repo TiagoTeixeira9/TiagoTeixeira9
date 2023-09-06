@@ -30,5 +30,3 @@
 
 ##
 
-<h3 align="left">My portfolio: </h3>
-<a href="[https://instagram.com/tiago.__.teixeira](https://tiagoteixeira9.github.io/My-Portfolio/)https://tiagoteixeira9.github.io/My-Portfolio/" target="blank">
